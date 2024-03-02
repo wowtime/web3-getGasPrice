@@ -1,0 +1,30 @@
+{
+  "name": "get-gas-price",
+  "version": "1.0.0",
+  "description": "get gas price",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowtime/web3-getGasPrice.git"
+  },
+  "keywords": [
+    "get",
+    "gas",
+    "price",
+    "web3"
+  ],
+  "author": "wowtime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowtime/web3-getGasPrice/issues"
+  },
+  "homepage": "https://github.com/wowtime/web3-getGasPrice#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "web3": "^4.5.0"
+  },
+  "devDependencies": {}
+}
