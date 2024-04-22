@@ -1,6 +1,6 @@
 {
   "name": "get-gas-price",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "get gas price",
   "main": "index.js",
   "scripts": {
